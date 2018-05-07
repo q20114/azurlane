@@ -1,3 +1,5 @@
+﻿-- last updated: 2018/5/7
+
 -- ========== Settings ================
 Settings:setCompareDimension(true, 1280)
 Settings:setScriptDimension(true, 1280)
